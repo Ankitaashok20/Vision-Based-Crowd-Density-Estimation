@@ -171,11 +171,6 @@ This project makes use of the **Passenger Head Detection (PHD) Dataset**, which 
 
 Their work has significantly contributed to research in vision-based crowd density estimation.
 
-Special thanks to:
-
-> Jiajing Xu, Mingda Zhai, Yuan Tian and Jun Wu
-
-for publicly releasing the dataset and their research.
 
 ---
 
@@ -192,9 +187,3 @@ Dataset Repository:
 https://github.com/Xujiajing111/PHD
 
 ---
-
-## License
-
-This repository contains **my implementation** of a vision-based crowd density estimation framework.
-
-The dataset used in this project is **not included** and remains subject to the original authors' licensing terms.
